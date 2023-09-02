@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnnamedHuntingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnnamedHuntingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnnamedHuntingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\UnnamedHuntingGame">
+      <UniqueIdentifier>{FA809AEC-8594-3AAD-B2C2-6A1FC1B4B292}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnnamedHuntingGame\TP_PickUpComponent.cpp">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnnamedHuntingGame\TP_PickUpComponent.h">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnnamedHuntingGame\TP_WeaponComponent.cpp">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnnamedHuntingGame\TP_WeaponComponent.h">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGame.Build.cs">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGame.cpp">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGame.h">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGameCharacter.cpp">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGameCharacter.h">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGameGameMode.cpp">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGameGameMode.h">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGameProjectile.cpp">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnnamedHuntingGame\UnnamedHuntingGameProjectile.h">
+      <Filter>Source\UnnamedHuntingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

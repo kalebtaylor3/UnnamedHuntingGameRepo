@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\unnamedhuntinggame\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unnamedhuntinggameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\development\\unnamedhuntinggame\\definitions.unnamedhuntinggame.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\source\\unnamedhuntinggame\\tp_weaponcomponent.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\unnamedhuntinggame\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

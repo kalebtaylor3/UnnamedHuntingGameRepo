@@ -1,0 +1,28 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\conta\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for UnnamedHuntingGameEditor (working set of source files changed)
+  Parsing headers for UnnamedHuntingGameEditor
+    Running UnrealHeaderTool "D:\GamesIMade\UnnamedHuntingGame\UnnamedHuntingGame.uproject" "D:\GamesIMade\UnnamedHuntingGame\Intermediate\Build\Win64\UnnamedHuntingGameEditor\Development\UnnamedHuntingGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\conta\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for UnnamedHuntingGameEditor in 2.0858876 seconds
+  Building UnnamedHuntingGameEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from UnnamedHuntingGame unity file: TP_PickUpComponent.cpp, TP_WeaponComponent.cpp, UnnamedHuntingGame.cpp, UnnamedHuntingGameCharacter.cpp, UnnamedHuntingGameGameMode.cpp, UnnamedHuntingGameProjectile.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 11 actions with 8 processes...
+  [1/11] Compile UnnamedHuntingGame.init.gen.cpp
+  [2/11] Compile TP_WeaponComponent.gen.cpp
+  [3/11] Compile TP_PickUpComponent.gen.cpp
+  [4/11] Compile UnnamedHuntingGameCharacter.gen.cpp
+  [5/11] Compile UnnamedHuntingGameGameMode.cpp
+  [6/11] Compile TP_WeaponComponent.cpp
+  [7/11] Compile TP_PickUpComponent.cpp
+  [8/11] Compile UnnamedHuntingGameCharacter.cpp
+D:\GamesIMade\UnnamedHuntingGame\Source\UnnamedHuntingGame\UnnamedHuntingGameCharacter.cpp(85): warning C4996: 'AActor::GetComponentsByClass': Use one of the GetComponents implementations as appropriate Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  [9/11] Link UnrealEditor-UnnamedHuntingGame.lib
+     Creating library D:\GamesIMade\UnnamedHuntingGame\Intermediate\Build\Win64\UnrealEditor\Development\UnnamedHuntingGame\UnrealEditor-UnnamedHuntingGame.lib and object D:\GamesIMade\UnnamedHuntingGame\Intermediate\Build\Win64\UnrealEditor\Development\UnnamedHuntingGame\UnrealEditor-UnnamedHuntingGame.exp
+  [10/11] Link UnrealEditor-UnnamedHuntingGame.dll
+     Creating library D:\GamesIMade\UnnamedHuntingGame\Intermediate\Build\Win64\UnrealEditor\Development\UnnamedHuntingGame\UnrealEditor-UnnamedHuntingGame.suppressed.lib and object D:\GamesIMade\UnnamedHuntingGame\Intermediate\Build\Win64\UnrealEditor\Development\UnnamedHuntingGame\UnrealEditor-UnnamedHuntingGame.suppressed.exp
+  [11/11] WriteMetadata UnnamedHuntingGameEditor.target
+  Total time in Parallel executor: 2.41 seconds
+  Total execution time: 6.13 seconds

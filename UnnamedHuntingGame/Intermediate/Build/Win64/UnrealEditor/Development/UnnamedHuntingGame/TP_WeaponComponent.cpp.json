@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gamesimade\\unnamedhuntinggame\\source\\unnamedhuntinggame\\tp_weaponcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unnamedhuntinggameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\development\\unnamedhuntinggame\\definitions.unnamedhuntinggame.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\source\\unnamedhuntinggame\\tp_weaponcomponent.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\unnamedhuntinggame\\tp_weaponcomponent.generated.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\source\\unnamedhuntinggame\\unnamedhuntinggamecharacter.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\springarmcomponent.generated.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\unnamedhuntinggame\\unnamedhuntinggamecharacter.generated.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\source\\unnamedhuntinggame\\unnamedhuntinggameprojectile.h",
+            "d:\\gamesimade\\unnamedhuntinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\unnamedhuntinggame\\unnamedhuntinggameprojectile.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
